@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Secrets & local env (never commit)
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.production.local
+.env.production
+.env.development
+.env.example
+
+# Local / runtime data
+local_data/
+src/attendance_photos/

@@ -1,0 +1,10 @@
+{
+  "name": "EduAttend",
+  "description": "Comprehensive school attendance tracking, featuring student & teacher dashboards, camera face recognition, and PIN verification in English & Vietnamese.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
